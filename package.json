@@ -1,0 +1,23 @@
+{
+  "name": "valorant-map-banner",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixelzee3/valorant-map-banner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pixelzee3/valorant-map-banner/issues"
+  },
+  "homepage": "https://github.com/pixelzee3/valorant-map-banner#readme",
+  "devDependencies": {
+    "parcel": "^2.3.2"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
