@@ -1,5 +1,7 @@
+import Maps from "./Maps";
+
 const App = () => {
-  return <h1 className="">Banana good</h1>;
+  return (<Maps />);
 }
  
 export default App;
