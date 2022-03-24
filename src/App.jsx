@@ -1,7 +1,7 @@
-import Maps from "./Maps";
+import Maps from './Maps';
 
 const App = () => {
-  return (<Maps />);
-}
- 
+  return <Maps />;
+};
+
 export default App;
