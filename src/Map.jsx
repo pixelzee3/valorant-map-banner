@@ -1,3 +1,6 @@
+// https://stackoverflow.com/questions/68020378/how-to-use-template-literals-in-tailwindcss-to-change-classes-dynamically
+// ^ that could help you figure out this bug.`
+
 const Map = ({ mapName, imgURL }) => {
   console.log(mapName);
   console.log(imgURL);
