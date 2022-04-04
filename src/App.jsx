@@ -11,6 +11,7 @@ function App() {
       <div className="bg-icebox"></div>
       <div className="bg-split"></div>
       <div className="bg-fracture"></div>
+      <div className="bg-filler"></div>
       {/* (end) Load assets */}
       <Maps />
     </div>
