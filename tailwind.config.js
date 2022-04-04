@@ -9,7 +9,7 @@ module.exports = {
         haven: 'url("./images/loading_screen_haven.webp")',
         icebox: 'url("./images/loading_screen_icebox.webp")',
         split: 'url("./images/loading_screen_split.webp")',
-        fracture: 'url("./images/loading_screen_fracture.webp")',
+        fracture: 'url("./images/loading-screen-fracture.webp")',
       },
     },
   },
