@@ -2,7 +2,7 @@ import Maps from "./Maps";
 
 function App() {
   return (
-    <div className="App">
+    <div className="bg-black w-screen h-screen">
       {/* Load assets */}
       <div className="bg-ascent"></div>
       <div className="bg-bind"></div>
