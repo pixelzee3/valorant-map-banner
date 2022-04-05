@@ -11,7 +11,7 @@ const Maps = () => {
     {
       id: 1,
       name: 'bind',
-      bgPos: 'center',
+      bgPos: 'top',
     },
     {
       id: 2,
@@ -21,7 +21,7 @@ const Maps = () => {
     {
       id: 3,
       name: 'haven',
-      bgPos: 'center',
+      bgPos: 'top',
     },
     {
       id: 4,
