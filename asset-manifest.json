@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5bdc1463.css",
+    "main.js": "/static/js/main.75209dda.js",
+    "static/media/loading_screen_haven.webp": "/static/media/loading_screen_haven.f3c5f2dda390e377b163.webp",
+    "static/media/loading_screen_split.webp": "/static/media/loading_screen_split.9dceb70e499b6d7e2ba5.webp",
+    "static/media/loading_screen_breeze.webp": "/static/media/loading_screen_breeze.375fe62a91efa4576c26.webp",
+    "static/media/loading_screen_icebox.webp": "/static/media/loading_screen_icebox.6386fd7b53afcfa52d3b.webp",
+    "static/media/loading_screen_ascent.webp": "/static/media/loading_screen_ascent.974fd996615c332321f9.webp",
+    "static/media/loading_screen_bind.webp": "/static/media/loading_screen_bind.3fb77354754a8a21ffc0.webp",
+    "static/media/loading_screen_fracture.webp": "/static/media/loading_screen_fracture.f411294160a14df0b208.webp",
+    "static/media/loading_screen_filler.webp": "/static/media/loading_screen_filler.ce6ccc39c92178380ba8.webp",
+    "index.html": "/index.html",
+    "main.5bdc1463.css.map": "/static/css/main.5bdc1463.css.map",
+    "main.75209dda.js.map": "/static/js/main.75209dda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bdc1463.css",
+    "static/js/main.75209dda.js"
+  ]
+}
