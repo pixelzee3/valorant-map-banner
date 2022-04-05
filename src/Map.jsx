@@ -7,3 +7,4 @@ const Map = ({ mapName, bgPos }) => {
 };
 
 export default Map;
+  

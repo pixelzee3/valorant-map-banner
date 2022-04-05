@@ -13,6 +13,9 @@ module.exports = {
         filler: 'url("./images/loading_screen_filler.webp")'
       },
     },
+    fontFamily: {
+      'sans': ['Poppins' , 'Helvetica', 'Arial', 'sans-serif'],
+    }
   },
   plugins: [],
 };
