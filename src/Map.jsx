@@ -13,7 +13,7 @@ const Map = ({ mapName, bgPos }) => {
       } relative bg-cover md:h-52`}
       onClick={handleClick}
     >
-      <div className={`w-full h-full ${clicked && mapName.toLowerCase() !== "filler" ? "bg-red-500 bg-opacity-50" : ""} transition-all`}>
+      <div className={`w-full h-full ${mapName !== "filler" && !clicked ? "hover:bg-white hover:bg-opacity-25" : ""} ${clicked && mapName.toLowerCase() !== "filler" ? "bg-red-500 bg-opacity-50" : ""} transition-all`}>
         <h2
           className={`absolute select-none bottom-2.5 left-2.5 font-sans text-4xl text-white md:text-5xl ${
             mapName.toLowerCase() === 'filler' ? 'hidden' : ''
