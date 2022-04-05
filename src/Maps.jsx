@@ -5,37 +5,37 @@ const Maps = () => {
   const [maps] = useState([
     {
       id: 0,
-      name: 'ascent',
+      name: 'Ascent',
       bgPos: 'top',
     },
     {
       id: 1,
-      name: 'bind',
+      name: 'Bind',
       bgPos: 'top',
     },
     {
       id: 2,
-      name: 'breeze',
+      name: 'Breeze',
       bgPos: 'center',
     },
     {
       id: 3,
-      name: 'haven',
+      name: 'Haven',
       bgPos: 'top',
     },
     {
       id: 4,
-      name: 'icebox',
+      name: 'Icebox',
       bgPos: 'center',
     },
     {
       id: 5,
-      name: 'split',
+      name: 'Split',
       bgPos: 'center',
     },
     {
       id: 6,
-      name: 'fracture',
+      name: 'Fracture',
       bgPos: 'center',
     },
   ]);
